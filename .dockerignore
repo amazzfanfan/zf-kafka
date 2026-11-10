@@ -1,0 +1,9 @@
+.git
+.tools
+.local
+.env
+bin
+web/node_modules
+web/test-results
+web/playwright-report
+docs
